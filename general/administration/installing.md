@@ -176,7 +176,7 @@ MacOS Application packages and builds in TAR archive format are available [here]
 1. Stop the currently running server either via the dashboard or using the application icon.
 1. Move the `.app` package to the Trash.
 
-**Deleting Configuation**
+**Deleting Configuration**
 
 This will delete all settings and user information. This Applies for the .app package and the Portable Version.
 
